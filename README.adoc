@@ -1,0 +1,7 @@
+# Config Server Repository
+
+This projects is used for test Config Server repository
+
+## Documentation
+
+link:http://cloud.spring.io/spring-cloud-static/spring-cloud-config/1.4.3.RELEASE/single/spring-cloud-config.html[Spring Cloud Config]
